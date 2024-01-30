@@ -1,0 +1,17 @@
+'''
+
+                            Online Python Compiler.
+                Code, Compile, Run and Debug python program online.
+Write your code in this editor and press "Run" button to execute it.
+
+'''
+
+arr = [58, 44, 9, 34, 20] 
+
+print(f"Original array is - {arr}")
+for i in range(len(arr)):
+    for j in range(0, len(arr)-i-1):
+        if arr[j] > arr[j+1]:
+            arr[j], arr[j+1] = arr[j+1], arr[j]
+print (f"Sorted array - {arr}") 
+  

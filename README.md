@@ -1,5 +1,5 @@
 # Sriradh_1002173929
-# 2. Argue selection sort correctness:
+# 2. selection sort correctness:
    
 Selection sort works by repeatedly finding the minimum unsorted element and moving it to the sorted subset. It maintains a sorted and unsorted subarray that are updated each iteration.
 

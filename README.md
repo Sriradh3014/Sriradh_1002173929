@@ -1,5 +1,5 @@
 # Sriradh_1002173929
-2. Argue selection sort correctness:
+# 2. Argue selection sort correctness:
    
 Selection sort works by repeatedly finding the minimum unsorted element and moving it to the sorted subset. It maintains a sorted and unsorted subarray that are updated each iteration.
 
@@ -19,7 +19,7 @@ The O(n^2) time complexity is higher than better algorithms. However, selection 
 
 In summary, selection sort is a simple, beginner-friendly, in-place sorting technique with quadratic runtimes. It works for smaller datasets where interpretability matters more than performance. The step-by-step iterative logic serves as an elegant introduction to more advanced algorithms.
 
-3. Benchmark the runtime of each algorithm:
+# 3. Benchmark the runtime of each algorithm:
    
 System information: 
 

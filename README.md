@@ -2,7 +2,9 @@
 2. Argue selection sort correctness:
    
 Selection sort works by repeatedly finding the minimum unsorted element and moving it to the sorted subset. It maintains a sorted and unsorted subarray that are updated each iteration.
+
 The algorithm is provably correct because:
+
 1.The sorted section remains ordered.
 2.It terminates when fully sorted.
 3.It correctly identifies the minimum unsorted element to move.

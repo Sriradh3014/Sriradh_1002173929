@@ -17,7 +17,7 @@ The algorithm is provably correct because:
 
 The O(n^2) time complexity is higher than better algorithms. However, selection sort adapts well to small n or where simplicity is preferred. Its straightforwardness can offset less efficiency for certain use cases.
 
-In summary, selection sort is a simple, beginner-friendly, in-place sorting technique with quadratic runtimes. It works for smaller datasets where interpretability matters more than performance. The step-by-step iterative logic serves as an elegant introduction to more advanced algorithms.
+In summary, selection sort is a simple, beginner-friendly, in-place sorting technique with quadratic runtimes. It works for smaller datasets where interpretability matters more than performance.
 
 # 3. Benchmark the runtime of each algorithm:
    
